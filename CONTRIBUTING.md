@@ -1,7 +1,7 @@
 # Contributing
 
 Your contributions are always welcome!
-
+Bitte sende eine Email an lieblings_kollege(at)firma.com
 ## Guideline
 
 * Add one link per Pull Request.
